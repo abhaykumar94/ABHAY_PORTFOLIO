@@ -1,4 +1,4 @@
-# Abhay Kumar Cinematic Portfolio
+# Abhay Kumar Portfolio
 
 An immersive developer portfolio built as a realtime film experience with:
 
